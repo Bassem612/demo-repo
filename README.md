@@ -1,2 +1,2 @@
 # demo-repo
-Git &amp; Github Carsh Course - FreeCodeCamp
+Git &amp; Github Carsh Course - FreeCodeCamp!
